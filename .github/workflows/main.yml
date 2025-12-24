@@ -5,6 +5,7 @@ concurrency:
   group: "build"
   cancel-in-progress: true
 
+
 on:
   push:
     branches:
@@ -13,6 +14,7 @@ on:
       - main
     paths-ignore:
       - '*.md'
+
       
 jobs:
   build:
