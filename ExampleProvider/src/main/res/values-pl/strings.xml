@@ -1,0 +1,5 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<resources>
+<string name="hello_fragment">Witaj zabawny fragmencie!!</string>
+<string name="loaded_from_app_trans">[Załadowane z aplikacji trans]</string>
+</resources>
