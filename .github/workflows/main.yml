@@ -7,8 +7,10 @@ concurrency:
 
 on:
   push:
-    branches: [ main, master ]
+    branches:
       # choose your default branch
+      - main
+      - master
     paths-ignore:
       - '*.md'
 
